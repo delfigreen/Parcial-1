@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6360070c8cd0085318057e6f"
+  },
+  "name": "Prueba",
+  "description": "Prueba de que el editar de la api funciona",
+  "link": "a",
+  "img": "https://picsum.photos/id/1010/400/225",
+  "public": "false",
+  "technology": "PHP, JavaScript"
+},{
+  "_id": {
+    "$oid": "63608881547910c00e19ce62"
+  },
+  "name": "Prueba2",
+  "description": "Prueba2 de que el editar de la api funciona",
+  "technology": "Express y Node",
+  "link": "b",
+  "img": "https://picsum.photos/id/1011/400/225",
+  "public": "false"
+},{
+  "_id": {
+    "$oid": "6362dbdb4106b6abd4ca9c5d"
+  },
+  "name": "Prueba check",
+  "description": "",
+  "technology": [
+    "PHP",
+    "Express"
+  ],
+  "link": "",
+  "img": "https://picsum.photos/id/1041/400/225",
+  "public": "false"
+}]
